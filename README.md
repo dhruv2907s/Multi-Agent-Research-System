@@ -46,13 +46,13 @@ flowchart TD
 
 ```text
 Multi-Agent-Research-System/
-â”œâ”€â”€ app.py              # Streamlit interface and pipeline execution
-â”œâ”€â”€ agents.py           # Search/reader agents and writer/critic chains
-â”œâ”€â”€ tools.py            # Tavily search and webpage scraping tools
-â”œâ”€â”€ requirements.txt    # Python dependencies
-â”œâ”€â”€ .env.example        # Environment-variable template
-â”œâ”€â”€ .gitignore          # Files excluded from version control
-â””â”€â”€ README.md
+├── app.py              # Streamlit interface and pipeline execution
+├── agents.py           # Search/reader agents and writer/critic chains
+├── tools.py            # Tavily search and webpage scraping tools
+├── requirements.txt    # Python dependencies
+├── .env.example        # Environment-variable template
+├── .gitignore          # Files excluded from version control
+└── README.md
 ```
 
 ## Getting Started
